@@ -22,13 +22,16 @@ Projektia ei laajenneta muihin aiheisiin tai oppiaineisiin ennen kuin ensimmäis
 
 1. [Dokumentaation rakenne](docs/README.md)
 2. [Projektin nykytila](docs/current-status.md)
-3. [Viralliset lähteet](docs/sources/README.md)
-4. [Pedagogiset periaatteet](docs/pedagogy/README.md)
+3. [Roadmap ja tehtäväkortit](docs/roadmap/README.md)
+4. [Viralliset lähteet](docs/sources/README.md)
+5. [Pedagogiset periaatteet](docs/pedagogy/README.md)
+6. [Hyväksytyt päätökset](docs/decisions/README.md)
 
 ## Tärkeimmät nykyiset dokumentit
 
 - [Historian ylioppilaskokeen lähteet](docs/sources/historian-yo-koe.md)
 - [Historian koevastauksen arviointi](docs/pedagogy/historian-koevastauksen-arviointi.md)
+- [Roadmap](docs/roadmap/README.md)
 
 ## Dokumenttien ensisijaisuus
 
@@ -37,7 +40,8 @@ Jos tiedot ovat ristiriidassa, käytetään seuraavaa järjestystä:
 1. voimassa olevat YTL:n ja OPH:n viralliset lähteet
 2. projektin kanoniset pedagogiikkadokumentit
 3. hyväksytyt päätösdokumentit
-4. aktiivisen jakson dokumentit
-5. keskustelut ja työmuistiinpanot
+4. aktiivisen työn tehtäväkortti
+5. aktiivisen jakson dokumentit
+6. keskustelut ja työmuistiinpanot
 
-Keskustelu ei yksinään ole projektin kanoninen muisti. Hyväksytyt lähteet, periaatteet ja päätökset tallennetaan repositoryyn.
+Keskustelu ei yksinään ole projektin kanoninen muisti. Hyväksytyt lähteet, periaatteet, päätökset ja tehtäväkortit tallennetaan repositoryyn.
