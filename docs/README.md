@@ -13,7 +13,8 @@ Uuden ihmisen tai AI-agentin tulee lukea dokumentit tässä järjestyksessä:
 2. [`current-status.md`](current-status.md)
 3. [`sources/README.md`](sources/README.md)
 4. [`pedagogy/README.md`](pedagogy/README.md)
-5. aktiivisen oppimisjakson `README.md`, kun ensimmäinen jakso on luotu
+5. [`decisions/README.md`](decisions/README.md)
+6. aktiivisen oppimisjakson `README.md`, kun ensimmäinen jakso on luotu
 
 ## Hakemistojen roolit
 
@@ -38,6 +39,12 @@ Dokumenteissa pitää erottaa:
 Sisältää hyväksytyt päätökset, joiden unohtaminen voisi johtaa projektin suunnan muuttumiseen tai saman keskustelun toistamiseen.
 
 Päätösdokumentteja luodaan vain merkittävistä ja pitkäikäisistä ratkaisuista.
+
+Nykyiset päätökset:
+
+- ensimmäisen pilotin formaatti on ohjattu YO-oppimissessio
+- ensimmäinen pilotti käyttää valmiiksi tuotettua ja tarkistettua sisältöä
+- käyttäjän oman materiaalin hyödyntäminen on myöhempi, ensin käsin testattava tuotepolku.
 
 ### `current-status.md`
 
