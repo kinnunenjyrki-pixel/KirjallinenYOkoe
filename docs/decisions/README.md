@@ -7,6 +7,16 @@ Tämä hakemisto sisältää projektin merkittävät ja pitkäikäiset päätök
 
 Päätösdokumentti luodaan vain silloin, kun päätöksen unohtaminen voisi johtaa projektin suunnan muuttumiseen, aiemman keskustelun tarpeettomaan toistamiseen tai pilotin rajauksen laajenemiseen.
 
+## Kanoniset päätökset
+
+### [`DEC-001-ohjattu-yo-oppimissessio.md`](DEC-001-ohjattu-yo-oppimissessio.md)
+
+Ensimmäisen pilotin formaatti on yhden kertojan ohjattu YO-oppimissessio. Jakso alkaa YO-tyyppisestä ydinkysymyksestä, sisältää aktiivisia ajattelupysähdyksiä ja päättyy opiskelijan parantuneeseen vastaukseen samaan kysymykseen.
+
+### [`DEC-002-valmis-sisalto-ja-kayttajan-oma-materiaali.md`](DEC-002-valmis-sisalto-ja-kayttajan-oma-materiaali.md)
+
+Ensimmäinen pilotti käyttää vain projektin valmiiksi tuottamaa ja tarkistettua sisältöä. Käyttäjän oman materiaalin muuttaminen oppimissessioksi säilytetään pitkän aikavälin tuotepolkuna ja testataan myöhemmin ensin käsin avustettuna.
+
 ## Mitä tänne tallennetaan
 
 - merkittävä päätös
@@ -60,7 +70,3 @@ Mitä ei toteuteta tai ratkaista tällä päätöksellä?
 
 Milloin tai millä ehdolla päätös avataan uudelleen?
 ```
-
-## Nykytila
-
-Ensimmäisiä erillisiä päätösdokumentteja ei vielä ole luotu. Ne lisätään vasta, kun päätös on riittävän merkittävä ja hyväksytty kanoniseksi.
